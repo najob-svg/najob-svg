@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @najob-svg
-- 👀 I’m interested in anything related to code
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate with my friends
-- 📫 How to reach me: no
+Hi! I am just a dummy that doesn't know what he's doing in life:>
